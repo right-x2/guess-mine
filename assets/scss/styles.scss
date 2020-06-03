@@ -1,0 +1,15 @@
+@import "body";
+$color: red;
+
+@keyframes temp {
+  from {
+    color: red;
+  }
+  to {
+    color: blue;
+  }
+}
+
+body {
+  position: sticky;
+}
